@@ -1,6 +1,6 @@
-# Oie devs 👋
+# Oie👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+
 
 ## Mais sobre mim
 
