@@ -12,7 +12,7 @@ object **ALBERT** {
  val acknowledgements = "DEV FULL STACK"
 
  val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Python", "JavaScript", "HTML/CSS" )
+ val languages = listOf("Python", "JavaScript", "HTML/CSS" )
 
 }
 ```
