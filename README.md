@@ -8,7 +8,7 @@
 
 ```kotlin
 object **ALBERT** {
- val name = "ALBERT C D SILVA"
+ val name = "ALBERT D."
  val acknowledgements = "DEV FULL STACK"
 
  val primarySkillset = "ALGUMAS HABILIDADES"
