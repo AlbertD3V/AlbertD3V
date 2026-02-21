@@ -30,13 +30,7 @@ object **ALBERT** {
 
 ## Status
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertD3V&theme=dracula&hide_langs_below=1" />
-</a>
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlbertD3V&show_icons=true&theme=dracula&line_height=27" alt="**Albert** github stats"/>
-</a>
 
 
 [instagram]: https://www.instagram.com/albert_sync/
@@ -49,3 +43,4 @@ object **ALBERT** {
 [![Linkedin](https://img.shields.io/badge/-Albert_Dias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/albert-dias-9b2926187?trk=people-guest_people_search-card)](https://br.linkedin.com/in/albert-dias-9b2926187?trk=people-guest_people_search-card)
 [![Gmail Badge](https://img.shields.io/badge/-albrtcd@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:albrtcd@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/AlbertD3V?label=follow&style=social)](https://github.com/AlbertD3V)
+[![Instagram](https://img.shields.io/badge/-Albert_Dias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/albert-dias-9b2926187?trk=people-guest_people_search-card)](https://www.instagram.com/albert_sync)
