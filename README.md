@@ -25,7 +25,7 @@ object **ALBERT** {
 <code><img height="30" src="https://cdn.simpleicons.org/css3"></code>
 <code><img height="30" src="https://cdn.simpleicons.org/csharp"></code>
 <code><img height="30" src="https://cdn.simpleicons.org/unity"></code>
-<code><img height="30" src="https://cdn.simpleicons.org/unrealengine"></code>
+<code><img height="30" src="https://cdn.simpleicons.org/unrealengine/white"></code>
 <code><img height="30" src="https://cdn.simpleicons.org/git"></code>
 <code><img height="30" src="https://cdn.simpleicons.org/visualstudiocode"></code>
 
